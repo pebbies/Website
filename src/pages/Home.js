@@ -1,32 +1,33 @@
 import { Component } from "react";
-import LinkedIn from "./../components/linkedin";
-import GitHub from "./../components/github";
 import Resume from "./../components/resume";
 import Dripos from "./../components/dripos";
+import BottomBar from "./../components/bottombar";
+import { TEXT_DARK_SKY, TEXT_DUSK } from "../theme/theme";
+import WalkingAnimation from "../components/walking-animation";
 
 class Home extends Component {
   render() {
     return (
       <div className="p-6">
-        <div className="flex justify-between flex-row items-center text-lg font-semibold">
+        <div
+          className={`flex justify-between flex-row items-center text-lg font-semibold ${TEXT_DUSK}`}
+        >
           <div>Stone Wang</div>
-
-          <div className="flex flex-row">
-            <LinkedIn />
-
-            <GitHub />
-          </div>
         </div>
 
-        <div className="mt-6 flex flex-row text-xl font-bold items-center">
-          <div className="text-blue-600">{`Software Engineer`}</div>
-
-          <div className="ml-2">at</div>
+        <div className="mt-12 flex flex-row text-xl font-bold items-center">
+          <div>{`Software Engineer at`}</div>
 
           <Dripos />
         </div>
 
         <Resume />
+
+        <BottomBar />
+
+        <div className="absolute ml-4 bottom-0">
+          <WalkingAnimation />
+        </div>
       </div>
     );
   }

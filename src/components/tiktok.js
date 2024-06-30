@@ -7,7 +7,7 @@ class Tiktok extends Component {
       <img
         src={tiktok}
         alt="Logo"
-        className="h-8 cursor-pointer"
+        className="h-5 ml-2 cursor-pointer"
         onClick={() =>
           window.open(
             "https://www.tiktok.com/@badtemperedmonster?_t=8nQY1tNWqxq&_r=1",
