@@ -16,7 +16,7 @@ class Home extends Component {
         </div>
 
         <div className="mt-12 flex flex-row text-xl font-bold items-center">
-          <div>{`Software Engineer at`}</div>
+          <div className="text-dusk">{`Former Software Engineer at`}</div>
 
           <Dripos />
         </div>
