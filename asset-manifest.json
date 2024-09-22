@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cbfde2e.css",
+    "main.js": "/static/js/main.e53126a2.js",
+    "static/media/closecombat.jpeg": "/static/media/closecombat.9989545a26910ad665e5.jpeg",
+    "static/media/dripos.png": "/static/media/dripos.91c57d5e1b9caa322e7b.png",
+    "static/media/tiktok.png": "/static/media/tiktok.059d8b7f4f04530994d5.png",
+    "index.html": "/index.html",
+    "main.5cbfde2e.css.map": "/static/css/main.5cbfde2e.css.map",
+    "main.e53126a2.js.map": "/static/js/main.e53126a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cbfde2e.css",
+    "static/js/main.e53126a2.js"
+  ]
+}
