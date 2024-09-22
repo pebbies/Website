@@ -5,7 +5,8 @@ import { Link } from "react-router-dom";
 class List extends Component {
   render() {
     const list = [
-      { page: "1", title: "September 21, 2024 - Close Combat Mage" },
+      { page: "2", title: "September, 2024 - Lessons From Naval Ravikant" },
+      { page: "1", title: "September, 2024 - Close Combat Mage" },
     ];
 
     return (

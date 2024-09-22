@@ -25,7 +25,7 @@ class CloseCombat extends Component {
         <Paragraph>
           The show follows a university professor with a deep passion for
           martial arts. But, in the real world, practicing his art is difficult
-          — after all, we can't exactly go around beating people up. By chance,
+          — after all, we can't exactly go around beati ng people up. By chance,
           the main character is introduced to Parallel Worlds, a virtual reality
           MMORPG, where he finds a way to blend his love for martial arts with
           cutting-edge technology. The story follows his journey as he discovers
