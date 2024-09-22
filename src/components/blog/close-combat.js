@@ -25,7 +25,7 @@ class CloseCombat extends Component {
         <Paragraph>
           The show follows a university professor with a deep passion for
           martial arts. But, in the real world, practicing his art is difficult
-          — after all, we can't exactly go around beati ng people up. By chance,
+          — after all, we can't exactly go around beating people up. By chance,
           the main character is introduced to Parallel Worlds, a virtual reality
           MMORPG, where he finds a way to blend his love for martial arts with
           cutting-edge technology. The story follows his journey as he discovers
@@ -37,7 +37,7 @@ class CloseCombat extends Component {
           like the shows we always turn to — might say about us. Maybe the kinds
           of stories we seek out reflect something deeper about the path we're
           on, or the person we wish we were. Maybe they reveal a weakness we're
-          deluding ourselves into thinking isn't one. Or it's hobby we really
+          deluding ourselves into thinking isn't one. Or it's a hobby we really
           want to dive into but just don't want to spend the time. Regardless,
           we want to live vicariously in a life that isn't our own. In my
           particular case, it's easy for me to slip into delusion of a world
@@ -45,7 +45,7 @@ class CloseCombat extends Component {
         </Paragraph>
 
         <Paragraph>
-          "Easy watches" often get dismissed as low-effort entertainment,
+          "Easy watches" often are dismissed as low-effort entertainment,
           something to zone out to without expecting much in return. Don't
           expect to watch these shows and have a changed outlook on life. But
           the next time you find yourself reaching for the familiar, the kind of

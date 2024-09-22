@@ -2,7 +2,6 @@ import { Component } from "react";
 import Paragraph from "../blog-entry/paragraph";
 import Title from "../blog-entry/title";
 import Entry from "../blog-entry/entry";
-import closecombat from "../../assets/closecombat.jpeg";
 
 class ThoughtsOnR extends Component {
   render() {
@@ -23,25 +22,26 @@ class ThoughtsOnR extends Component {
           Here R talks about a path to the peak of a mountain. You realize that
           you're 2/3 of the way to the peak, but this particular path is a dead
           end. In these situations, if we want to get to the peak, we've no
-          choice to better. Actually, the sooner you realize that, the better. R
-          recounts many famous people who have had to start over - artists, tech
-          savants (Steve Jobs in particular, R seems to enjoy glazing),
-          entrepreneurs. You have to be willing to be nothing to be everything.
-          That nothing and everything are tied so closely together, I find that
-          ironic.
+          choice but to start over. Actually, the sooner we realize this, the
+          better. R recounts many famous people who have had to start over -
+          artists, tech savants (Steve Jobs in particular, R seems to enjoy
+          glazing), entrepreneurs. You have to be willing to be nothing to be
+          everything. That nothing and everything are tied so closely together,
+          I find ironic.
         </Paragraph>
 
         <Paragraph>2. When Inspired, Act Immediately</Paragraph>
 
         <Paragraph>
           R talks about his unpublished tweet storms. He talks about the idea
-          that inspiration is perishable - the longer we wait when we are
-          inspired, the more that inspiration fades. Give it enough time, and
-          the inspiration is near impossible to act on. I find I run into this a
-          lot. I think of an idea on a plane ride, on a walk, and I quickly jot
-          it down. By the time I return to my work station and am ready to act
-          on it, the idea seems so far away, so muddled. Part of counteracting
-          this axiom is being prepared to action on inspiration.
+          that inspiration is perishable - the longer we wait when inspired, the
+          more the inspiration fades. Given enough time, we find the inspiration
+          has disappeared and is near impossible to act on. I think of an idea
+          on a plane ride, on a walk, and I quickly jot it down. By the time I
+          return to my work station and am ready to act on it, the idea seems so
+          far away, so muddled, and so impossible to action. Part of
+          counteracting this axiom is being prepared to act on inspiration, the
+          other part is being brave enough to pull the trigger.
         </Paragraph>
 
         <Paragraph>3. Choose To Be Yourself</Paragraph>
@@ -51,7 +51,7 @@ class ThoughtsOnR extends Component {
           being you as you are". I extrapolate this to two learnings. 1. We must
           not try to adopt the paradigms, regimes and rules of others. 2. We'll
           always be able to find an edge when we do something that is uniquely
-          our own self.
+          of our own self.
         </Paragraph>
 
         <Paragraph>4. Do What Feels Like Play, But Looks Like Work</Paragraph>
@@ -59,7 +59,7 @@ class ThoughtsOnR extends Component {
         <Paragraph>
           If I'm playing 16 hours a day, you'll never be able to beat me. The
           trick is finding something that is play to me, but that is work to
-          other people, meaning it can be monetized.
+          other people.
         </Paragraph>
 
         <Paragraph>5. Choose Your Desires Carefully</Paragraph>
@@ -89,10 +89,10 @@ class ThoughtsOnR extends Component {
         <Paragraph>
           "You are not going to get rich by renting out your time". You can't
           build wealth by working at a job where your inputs, such as time and
-          labor, correlate direct with your output, like a salary. George Lucas
+          labor, correlate direct with your output, such as salary. George Lucas
           kept royalties on Star Wars, and through his IP, made money long into
           his later years from the franchise. MJ did the same with shoes.
-          Footballers like Messi and David Beckham same deal.
+          Footballers like Messi and David Beckham same thing.
         </Paragraph>
 
         <Paragraph>9. Use The New Leverage</Paragraph>
@@ -116,10 +116,6 @@ class ThoughtsOnR extends Component {
         </Paragraph>
 
         <Paragraph>11. Overcome The Need For External Validation</Paragraph>
-
-        {/* <div className="flex justify-center items-center mt-8">
-          <img src={closecombat} alt="Logo" className="h-96" />
-        </div> */}
       </Entry>
     );
   }
