@@ -11,9 +11,19 @@ class Resume extends Component {
         </div>
 
         <div className="mt-4 flex flex-row items-center">
-          Undergraduate Degree from
+          BA in Economics, Minor in Computer Science from
           <div className="font-semibold ml-2">Northwestern University</div>
         </div>
+
+        <div className="mt-4 flex flex-row items-center">
+          Certificate in AR/VR: Technologies and Applications from
+          <div className="font-semibold ml-2">University of Michigan (Coursera)</div>
+        </div>
+
+        {/* <div className="mt-4 flex flex-row items-center">
+          Certificate in XR Development from
+          <div className="font-semibold ml-2">University of Michigan (Coursera)</div>
+        </div> */}
 
         <div className="mt-4 flex flex-row items-center">
           Novice Videographer on
