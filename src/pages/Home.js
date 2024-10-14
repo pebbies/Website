@@ -27,7 +27,9 @@ class Home extends Component {
         <BottomBar />
 
         <div className="mt-24 text-xl font-semibold text-sky-700 underline">
-          <Link to={`/blog/3`}>Read My Latest Article on Proprioception in Mixed Reality Systems (October, 2024)</Link>
+          <Link to={`/blog/4`}>
+            Read My Latest Article on Visual Realism in VR (October, 2024)
+          </Link>
         </div>
 
         <div className="absolute ml-4 bottom-0">

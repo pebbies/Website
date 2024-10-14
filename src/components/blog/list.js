@@ -6,6 +6,10 @@ class List extends Component {
   render() {
     const list = [
       {
+        page: "4",
+        title: "October, 2024 - A Quest For Visual Realism",
+      },
+      {
         page: "3",
         title:
           "October, 2024 - Proprioception, Tickling, and Full-Dive Virtual Reality",
